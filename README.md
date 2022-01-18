@@ -31,7 +31,7 @@
 
 &nbsp;[![leandromoniz GitHub Statistic](https://github-readme-stats.vercel.app/api?username=leandromoniz)](https://github.com/leandromoniz/leandromoniz) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandromoniz&layout=compact)](https://github.com/leandromoniz/github-readme-stats)
 
 
 ## 📫 Entre em contato:
