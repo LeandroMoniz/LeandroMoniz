@@ -7,24 +7,30 @@
 - ⚡ Sou apaixonado por tecnologia e sempre em aprendizado contínuo, estou migrando do setor industrial da área de automação industrial e manutenção elétrica para o setor TI. 
       Tenho alguns hobbies como tocar guitarra e jogar vídeo games, divido o meu tempo livre entre família, hobbies e adquirir conhecimentos em diversas áreas. 
       Sou formado em engenharia de controle e automação, já atuei como programador de CLP "Controlador Lógico Programado" com a linguagem Ladder, estou aprofundando meus conhecimentos em Java e estou participando de um mentoria para o desenvolvimento de profissionais na TI, onde estamos desenvolvendo uma aplicação do zero, aprendendo como é o dia a dia de um projeto ágil e entregas em Sprint. 
-- 🚀 Meu proximo objetivo profissional: Desenvolvedor Node.js
+- 🚀 Meu proximo objetivo profissional: Desenvolvedor Node.js Jr. / Desenvolvedor React Jr.
 
 
 ## ⚡ Experiência
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![image](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
 ## ⚡ Habilidades em Desenvolvimento
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
 ## 💡 Estatísticas Gerais
