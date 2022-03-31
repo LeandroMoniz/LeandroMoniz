@@ -33,11 +33,12 @@
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## 💡 Estatísticas Gerais
-
-&nbsp;[![leandromoniz GitHub Statistic](https://github-readme-stats.vercel.app/api?username=leandromoniz)](https://github.com/leandromoniz/leandromoniz) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandromoniz&layout=compact)](https://github.com/leandromoniz/github-readme-stats)
+## 📈 GitHub Stats 
+<div >
+  <a href="https://github.com/leandromoniz">
+  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=leandromoniz&show_icons=true&&theme=aura&count_private=true"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromoniz&layout=compact&langs_count=7&theme=aura"/>
+</div>
 
 
 ## 📫 Entre em contato:
