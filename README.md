@@ -32,6 +32,8 @@
 ![image](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=leandromoniz&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📈 GitHub Stats 
 <div >
