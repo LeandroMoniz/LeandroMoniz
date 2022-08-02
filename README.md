@@ -33,13 +33,13 @@
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=leandromoniz&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=LeandroMoniz&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📈 GitHub Stats 
 <div >
-  <a href="https://github.com/leandromoniz">
-  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=leandromoniz&show_icons=true&&theme=aura&count_private=true"/>
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromoniz&layout=compact&langs_count=7&theme=aura"/>
+  <a href="https://github.com/LeandroMoniz">
+  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=LeandroMoniz&show_icons=true&&theme=aura&count_private=true"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroMoniz&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 
