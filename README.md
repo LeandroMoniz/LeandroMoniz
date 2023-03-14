@@ -5,10 +5,14 @@
 - 🎓 Formado em 2019 no curso de Engenharia de Controle e Automação pela Faculdade Anhanguera de SBO. 
 - 🎓 Metoria para desenvolvimento de profissionais na TI, ministrado por Will Paulino.
 - ⚡Olá!!!
-Sou Leandro, um Dev Junior que adora desafios e tecnologia ! 
-Hoje tenho 34 anos e a 1 ano fiz uma mudança de carreira para desenvolvimento de sistema, antes atuava no setor industrial como Analista de manutenção e Automação industrial , estava na área desde meus 15 anos onde aprendi muitas coisa e fiz muito amigos para vida, mas sempre tive a vontade de trabalha como Dev!!!
-Agora estou trabalhando como desenvolvedor Back End Junior em Node.js e Nest.js em uma equipe ágil!
-Tenho formação em Engenharia de Controle e Automação, estou aprofundando meus conhecimentos em Node.js , Nest.js, Typescript , React.js e Java script, nas horas de descanso tenho alguns hobbies como tocar guitarra e jogar vídeo games, divido o meu tempo livre entre família, hobbies e adquirir conhecimentos em diversas áreas.
+Sou um profissional de carreira dedicado que trabalhou em manutenção e automação industrial por mais de 17 anos. Como alguém que sempre esteve interessado em tecnologia e software, recentemente decidi fazer uma mudança de carreira para me dedicar ao desenvolvimento de software.
+
+Embora a transição tenha sido desafiadora, com muito esforço e dedicação, pude adquirir as habilidades necessárias para ser bem-sucedido nessa nova carreira. Atualmente, tenho 10 meses de experiência em desenvolvimento de software, trabalhando em projetos desafiadores e desenvolvendo minhas habilidades em diferentes áreas.
+
+Meu objetivo é continuar aprendendo e crescendo na minha nova carreira, aplicando minha vasta experiência que trago comigo da minha antiga carreira para ajudar a criar soluções de software inovadoras e de alta qualidade. Estou animado com as possibilidades que essa mudança de carreira trará e estou ansioso para colaborar com outras pessoas talentosas e dedicadas no campo do desenvolvimento de software.
+
+Se você estiver procurando por alguém com uma sólida experiência resolução de problema e trabalho em equipe, combinada com habilidades de desenvolvimento de software , estou disponível para conversar e discutir como podemos trabalhar juntos para atingir seus objetivos de negócios. Sinta-se à vontade para me contatar para mais informações
+
 - 🚀 Meu proximo objetivo profissional: Melhorar minha Hard Skill em Node.js, Nest.js , Typescript , React.js, Angula e JavaScript.js
 
 ## ⚡ Experiência
