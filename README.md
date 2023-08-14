@@ -3,17 +3,18 @@
 
 - 📌 Nova Odessa-São Paulo (BRASIL)
 - 🎓 Formado em 2019 no curso de Engenharia de Controle e Automação pela Faculdade Anhanguera de SBO. 
-- 🎓 Metoria para desenvolvimento de profissionais na TI, ministrado por Will Paulino.
-- ⚡Olá!!!
-Sou um profissional de carreira dedicado que trabalhou em manutenção e automação industrial por mais de 17 anos. Como alguém que sempre esteve interessado em tecnologia e software, recentemente decidi fazer uma mudança de carreira para me dedicar ao desenvolvimento de software.
+- 🎓 Metória para desenvolvimento de profissionais na TI, ministrado por Will Paulino.
+- ⚡Olá! Sou um Desenvolvedor Full Stack Junior com uma paixão por criar sistemas inovadores e eficientes usando uma variedade de tecnologias. Minhas habilidades incluem SQL Server, MySQL, HTML5, JavaScript, CSS, Bootstrap, Node.js, Nest.js, Java e React.
 
-Embora a transição tenha sido desafiadora, com muito esforço e dedicação, pude adquirir as habilidades necessárias para ser bem-sucedido nessa nova carreira. Atualmente, tenho 10 meses de experiência em desenvolvimento de software, trabalhando em projetos desafiadores e desenvolvendo minhas habilidades em diferentes áreas.
+    Com mais de 17 anos de experiência em manutenção e automação industrial, decidi direcionar minha carreira para o desenvolvimento de software. Essa transição foi desafiadora, mas com dedicação intensa e 10 meses de experiência em desenvolvimento de software, superei os desafios e aprimorei minhas habilidades em diversas áreas.
 
-Meu objetivo é continuar aprendendo e crescendo na minha nova carreira, aplicando minha vasta experiência que trago comigo da minha antiga carreira para ajudar a criar soluções de software inovadoras e de alta qualidade. Estou animado com as possibilidades que essa mudança de carreira trará e estou ansioso para colaborar com outras pessoas talentosas e dedicadas no campo do desenvolvimento de software.
+    Meu objetivo é continuar crescendo e aprendendo na minha nova carreira, aplicando minha vasta experiência em resolução de problemas e trabalho em equipe para criar soluções de software inovadoras e de alta qualidade.
 
-Se você estiver procurando por alguém com uma sólida experiência resolução de problema e trabalho em equipe, combinada com habilidades de desenvolvimento de software , estou disponível para conversar e discutir como podemos trabalhar juntos para atingir seus objetivos de negócios. Sinta-se à vontade para me contatar para mais informações
+    Estou entusiasmado com as possibilidades que essa mudança de carreira trará e ansioso para colaborar com outros profissionais talentosos e dedicados no campo do desenvolvimento de software.
 
-- 🚀 Meu proximo objetivo profissional: Melhorar minha Hard Skill em Node.js, Nest.js , Typescript , React.js, Angula e JavaScript.js
+    Se você procura um Desenvolvedor Web que pode oferecer soluções de qualidade para seus projetos, estou disponível para conversar e discutir como posso ajudá-lo a alcançar seus objetivos de negócios. Vamos trabalhar juntos para criar soluções tecnológicas incríveis!
+
+- 🚀 Meu proximo objetivo profissional: Melhorar minha Hard Skill em Node.js, Nest.js , Typescript , React.js, Angula e Java.
 
 ## ⚡ Experiência
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
