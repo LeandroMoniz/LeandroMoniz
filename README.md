@@ -1,9 +1,9 @@
-# Olá, meu nome é Leandro Moniz 👋
+# Olá, Meu nome é Leandro Moniz 👋
 
-
-- 📌 Nova Odessa-São Paulo (BRASIL)
-- 🎓 Formado em 2019 no curso de Engenharia de Controle e Automação pela Faculdade Anhanguera de SBO. 
+- 🎓 Pós graduação em Desenvolvimento Full stack de 08/2023 a 08/2024.
+- 🎓 Formado em Engenharia de Controle e Automação.
 - 🎓 Metória para desenvolvimento de profissionais na TI, ministrado por Will Paulino.
+- ⚡ Link Portfólio: https://leandromoniz.netlify.app/
 - ⚡Olá! Sou um Desenvolvedor Full Stack Junior com uma paixão por criar sistemas inovadores e eficientes usando uma variedade de tecnologias. Minhas habilidades incluem SQL Server, MySQL, HTML5, JavaScript, CSS, Bootstrap, Node.js, Nest.js, Java e React.
 
     Com mais de 17 anos de experiência em manutenção e automação industrial, decidi direcionar minha carreira para o desenvolvimento de software. Essa transição foi desafiadora, mas com dedicação intensa e 10 meses de experiência em desenvolvimento de software, superei os desafios e aprimorei minhas habilidades em diversas áreas.
@@ -25,6 +25,8 @@
 ![image](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![image](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ## ⚡ Habilidades em Desenvolvimento
