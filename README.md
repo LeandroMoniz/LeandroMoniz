@@ -4,17 +4,13 @@
 - 🎓 Formado em Engenharia de Controle e Automação.
 - 🎓 Metória para desenvolvimento de profissionais na TI, ministrado por Will Paulino.
 - ⚡ Link Portfólio: https://leandromoniz.netlify.app/
-- ⚡Olá! Sou um Desenvolvedor Full Stack Junior com uma paixão por criar sistemas inovadores e eficientes usando uma variedade de tecnologias. Minhas habilidades incluem SQL Server, MySQL, HTML5, JavaScript, CSS, Bootstrap, Node.js, Nest.js, Java e React.
+- ⚡Olá!!! 
+    Como desenvolvedor Full Stack meu foco é promover soluções criativas e inovadoras na área de desenvolvimento de sistemas.
+    Formado em engenharia e cursando Pós-graduação em desenvolvimento Full Stack, trabalhei em várias empresas como desenvolvedor utilizando as melhores ferramentas do mercado, tais como Typescript, React.js, Node.js, Angular, Figma e muitas outras.
+    Tenho facilidade em trabalhar em equipe e flexibilidade a me adaptar com as novas necessidades e demandas do mercado.
+    Meu objetivo profissional é trabalhar em projetos de alta tecnologia contribuindo para o crescimento e desenvolvimento da empresa como um todo.
 
-    Com mais de 17 anos de experiência em manutenção e automação industrial, decidi direcionar minha carreira para o desenvolvimento de software. Essa transição foi desafiadora, mas com dedicação intensa e 10 meses de experiência em desenvolvimento de software, superei os desafios e aprimorei minhas habilidades em diversas áreas.
-
-    Meu objetivo é continuar crescendo e aprendendo na minha nova carreira, aplicando minha vasta experiência em resolução de problemas e trabalho em equipe para criar soluções de software inovadoras e de alta qualidade.
-
-    Estou entusiasmado com as possibilidades que essa mudança de carreira trará e ansioso para colaborar com outros profissionais talentosos e dedicados no campo do desenvolvimento de software.
-
-    Se você procura um Desenvolvedor Web que pode oferecer soluções de qualidade para seus projetos, estou disponível para conversar e discutir como posso ajudá-lo a alcançar seus objetivos de negócios. Vamos trabalhar juntos para criar soluções tecnológicas incríveis!
-
-- 🚀 Meu proximo objetivo profissional: Melhorar minha Hard Skill em Node.js, Nest.js , Typescript , React.js, Angula e Java.
+- 🚀 Meu proximo objetivo profissional: Melhorar minha Hard Skill em Node.js, Nest.js , Typescript , React.js e Java.
 
 ## ⚡ Experiência
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
